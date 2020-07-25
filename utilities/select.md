@@ -1,6 +1,6 @@
 # Select
 
-<img src="https://github.com/IggyLabs/IggyLabsModulesManual/blob/master/img/select_1.png" width = "96">
+<img src="https://github.com/IggyLabs/IggyLabsModulesManual/blob/master/img/select_1.png" width = "196">
 
 ## Intro
 Select is an input selector utility. Sixteen inputs (each input supports 16 channels of polyphony) can be patched in, and the dial selector sets which input to send through to the output. A light next to the port will turn on if it is the currently selected input.

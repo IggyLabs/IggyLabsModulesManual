@@ -1,5 +1,5 @@
 # Table
-![Table screenshot](../img/table_1.png)
+<img src="https://github.com/IggyLabs/IggyLabsModulesManual/blob/master/img/table_1.png" width = "96">
 [YouTube demo](https://www.youtube.com/watch?v=gjz9PFwesQk)
 
 ## Intro
