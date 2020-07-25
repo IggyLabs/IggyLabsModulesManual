@@ -43,3 +43,10 @@ When not in quantize mode (called "raw" mode), the fractional value is mapped to
 There are two modes for the output clock:
 1. thru: the output simply passes through the input clock
 2. sel: pulse outputs on any change of output CV value
+
+
+## A first patch
+
+Here is an idea for a first patch with *more_ideas*! Using a sample and hold from a divided clock to modulate the seed and selected bit will add some controlled randomness to your chosen rule.
+
+![patch](../img/more_ideas_2.png)
