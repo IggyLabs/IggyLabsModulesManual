@@ -1,5 +1,6 @@
 # Table
 <img src="https://github.com/IggyLabs/IggyLabsModulesManual/blob/master/img/table_1.png" width = "400">
+
 [YouTube demo](https://www.youtube.com/watch?v=gjz9PFwesQk)
 
 ## Intro

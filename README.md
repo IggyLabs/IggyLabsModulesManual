@@ -4,7 +4,7 @@
 
 ## Generators
 
-- [more.ideas](generators/more_ideas.md)
+- [more.ideas](generators/more_ideas.md) (in beta)
 
 ## Oscillators
 
