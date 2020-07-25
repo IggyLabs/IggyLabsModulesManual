@@ -1,5 +1,7 @@
 # more.ideas
 
+![screenshot](../img/more_ideas_1.png)
+
 ## Intro
 *more.ideas* is an elementary cellular automata sequencer. It provides:
 * 1 main clock output
