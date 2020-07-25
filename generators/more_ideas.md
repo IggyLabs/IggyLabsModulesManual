@@ -36,7 +36,7 @@ To calculate the output CV, *more.ideas* uses the fractional value of the curren
 
 When in quantize ("qnt") mode, this means finding the closes note in the provided scale that is the fractional distance between the low and high parameters. (Note that low and high are suggested terms; you can have low be higher than high and still generate a valid range.) So if your current generation is 0, you will get out the lowest possible note in the range. (For reference, the note "0" is mapped to C3 to follow the precedent of the original *less_concepts* script.)
 
-When not in quantize mode (called "raw" mode), the fractional value is mapped to the range selected in the right click menu. 
+When not in quantize mode (called "raw" mode), the fractional value is mapped to the range selected in the right click menu. This also means that the low, high, and scale parameters have no effect on the output CV.
 
 ### Main output clock
 
