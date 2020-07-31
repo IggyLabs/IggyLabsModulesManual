@@ -50,3 +50,10 @@ There are two modes for the output clock:
 Here is an idea for a first patch with *more_ideas*! Using a sample and hold from a divided clock to modulate the seed and selected bit will add some controlled randomness to your chosen rule.
 
 ![patch](../img/more_ideas_2.png)
+
+
+## FAQ
+
+### Why isn't there anything coming out of the triggers or clock output even though the clock input is connected? 
+
+It is possible you've chosen a seed or rule combination that results in a blank/empty set in which case you'll get no output. The canonical example would be anything with rule or seed 0. 
